@@ -23,7 +23,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Controle de Acesso por Detecção e Reconhecimento Facial e Placas de Identificação de Veículos
 
 ## 📒 Descrição
-Este projeto surgiu da necessidade em realizar um controle de acesso em meu condomínio tanto para pessoas, como para veículos. Através de câmeras instaladas em locais de acesso, a detecção e o reconhecimento de imagens em tempo real deve identificar a imagem facial da pessoa, que se encontra cadastrada em um banco de dados, e assim permitir o acesso ao condomínio, e também registrar a quantidade de eventos de entrada e de saída. De forma semelhante, realizando a detecção e o reconheciomento de imagens em tempo real deve identificar a imagem da placa do veículo, que também se encontra cadastrada em um banco de dados, e assim permitir o acesso ao estacionamento, e também registrar a quantidade de eventos de entrada e de saída.  
+
+Este projeto surgiu da necessidade em realizar um controle de acesso em meu condomínio tanto para pessoas, como para veículos.
+Através de câmeras instaladas em locais de acesso, a detecção e o reconhecimento de imagens em tempo real deve identificar a imagem facial da pessoa, que se encontra cadastrada em um banco de dados, e assim permitir o acesso ao condomínio, e também registrar a quantidade de eventos de entrada e de saída.
+De forma semelhante, realizando a detecção e o reconheciomento de imagens em tempo real deve identificar a imagem da placa do veículo, que também se encontra cadastrada em um banco de dados, e assim permitir o acesso ao estacionamento, e também registrar a quantidade de eventos de entrada e enventos de saída.  
 
 ## 🤖 Tecnologias Utilizadas
 
